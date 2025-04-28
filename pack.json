@@ -1,0 +1,25 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/details?id=com.whatsapp",
+  "ios_app_store_link": "https://apps.apple.com/app/whatsapp-messenger/id310633997",
+  "sticker_packs": [
+    {
+      "identifier": "test_pack",
+      "name": "Test Stickers",
+      "publisher": "My Test App",
+      "tray_image_file": "https://raw.githubusercontent.com/vermaditya1999/stickers/refs/heads/main/tray_image.webp",
+      "image_data_version": "1",
+      "avoid_cache": true,
+      "stickers": [
+        {
+          "image_file": "https://raw.githubusercontent.com/vermaditya1999/stickers/refs/heads/main/sticker1.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/vermaditya1999/stickers/refs/heads/main/sticker2.webp"
+        },
+        {
+          "image_file": "https://raw.githubusercontent.com/vermaditya1999/stickers/refs/heads/main/sticker3.webp"
+        }
+      ]
+    }
+  ]
+}
